@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app\\Http",
+    "\\bootstrap\\cache",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\partials",
+    "\\storage\\app\\public",
+    "\\storage\\framework\\sessions",
+    "\\storage\\framework\\testing",
+    "\\storage\\framework\\views"
+  ],
+  "SelectedNode": "\\resources\\views\\profile.blade.php",
+  "PreviewInSolutionExplorer": false
+}
